@@ -116,7 +116,6 @@ obj/
 /out/
 
 # User-specific configurations
-.idea
 .idea/
 .idea/caches/
 .idea/libraries/
