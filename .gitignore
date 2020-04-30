@@ -189,3 +189,4 @@ fabric.properties
 /build/
 /.dart_tool/
 /.idea/
+pubspec.lock
